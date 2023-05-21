@@ -271,10 +271,14 @@ int Extraa_Work_Hours;
     }
 
 };
-
+class Base
+{
+    public:
+    //virtual
+};
 int main()
 {
-    KinderGardenStudent loly;
+    /*KinderGardenStudent loly;
     loly.set_age(5);
     loly.set_gender("Female");
     loly.set_name("Loly");
@@ -295,6 +299,7 @@ int main()
 
     MultiStudent M;
     N.set_name("Nour");
+    N.set_age(25);
     N.set_Study_hour(5);
     N.set_Work_Hours(8);
     N.set_Extra_Work_Hours(2);
@@ -303,7 +308,7 @@ int main()
 
     Person p_;
     Person p_1("Jack" , "Male" , 35);
-    cout <<endl;
+    cout <<endl;*/
 
 
 }
