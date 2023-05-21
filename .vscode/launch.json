@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/Embedded Systems ( ITI )/ITI/C++",
-      "program": "f:/Embedded Systems ( ITI )/ITI/C++/build/Debug/outDebug",
+      "cwd": "f:/Embedded Systems ( ITI )/ITI/C++/Person/bin/Debug",
+      "program": "f:/Embedded Systems ( ITI )/ITI/C++/Person/bin/Debug/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
