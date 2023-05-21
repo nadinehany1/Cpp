@@ -1,6 +1,0 @@
-class Material:
-    {
-        private:
-        public:
-
-    };
